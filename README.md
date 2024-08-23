@@ -2,4 +2,4 @@ Modeled a Blender-Mini-Trash-Can! 🗑️ It’s looking nice and perfect for sm
 
 https://thangs.com/mythangs/file/1124515
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/69caaed4-90d8-4c5f-af53-c4da87504a68)
